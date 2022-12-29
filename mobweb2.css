@@ -1,0 +1,36 @@
+.bg2{
+	background-image: url('https://img.freepik.com/free-vector/shoes-store-interior-with-women-footwear-rack_107791-7349.jpg?w=996&t=st=1672307242~exp=1672307842~hmac=4867cd79cc0e7af37f09f9fdaf852a25af5ad74caf6fc1b83bec1d62e60c80cf');
+	background-size: cover;
+	height: 150vh;
+}
+.go{
+	color: darkslateblue;
+	font-family: 'roboto';
+	font-weight: bold;
+	font-size: 30px;
+	padding: 30px;
+}
+.layout2{
+	background-color: lightgreen;
+	border-radius: 8px;
+	padding: 19px;
+	margin: 16px;
+
+}
+.im{
+	width: 100px;
+	height: 100px;
+
+}
+.brand{
+	color: hotpink;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 20px;
+
+}
+.brandpara{
+	color: darkgoldenrod;
+	font-family: Roboto;
+	font-size: 20px;
+}

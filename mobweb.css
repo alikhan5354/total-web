@@ -1,0 +1,27 @@
+.bg{
+	background-image: url('https://img.freepik.com/free-photo/variety-fresh-tasty-vegetables-dark_1220-4444.jpg?w=900&t=st=1672278101~exp=1672278701~hmac=f57af1ff07970ef2691431b1f386ecc7a2c2ba6d0eba9ae56327beb2556a89f1');
+	background-size: cover;
+	height: 100vh;
+}
+.p{
+	text-width: 20px;
+}
+.layout{ 
+      background-color: orange;
+      height: 230pxpx;
+      border-top-left-radius: 20px;
+      border-top-right-radius: 20px;
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+      padding: 20px;
+
+}
+.heading{
+	 color: brown;
+	 font-family: 'Roboto';
+	 font-weight: bold;
+}
+.paraline{
+	 font-family: 'Roboto';
+	 color: green;
+}
